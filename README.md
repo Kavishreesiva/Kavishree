@@ -14,7 +14,7 @@
 
 ## 🔧 Skills & Tools  
 - 🛡️ Cybersecurity: Kali Linux | VAPT | Wireshark  
-- 💻 Programming: Java | HTML | CSS | JavaScript  
+- 💻 Programming: Java | HTML | CSS | 
 - ⚙️ Tools: Git | GitHub | Procmon  
 
 ---
