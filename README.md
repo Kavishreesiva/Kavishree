@@ -30,3 +30,12 @@
 
 ## 🌟 Quote I Believe In  
 *"Breaking barriers, securing systems, and learning every day!"*  
+
+**These are the Coding Technology used in our Project**
+
+- Python
+- Flask 
+- HTML5
+- Vanila Javascript
+- Templating Engine
+- JSON
