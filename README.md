@@ -1,12 +1,151 @@
-# 💫 About Me:
-# Hi there 👋, I'm Kavishree S<br><br>🚀 **Cyber Security Student | Aspiring Security Analyst | AI Security Enthusiast**<br><br>I'm a final-year B.E. Computer Science (Cyber Security) student passionate about cybersecurity, artificial intelligence, prompt injection security. I enjoy building practical security projects, exploring new technologies, and continuously improving my skills through hands-on learning.<br><br>### About Me<br><br>🔭 **I'm currently working on:**<br>Cybersecurity projects, AI-powered security applications, and malware analysis.<br><br>👯 I'm looking to collaborate on:<br>Cybersecurity, AI security, prompt injection research, and open-source security projects.<br><br>🤝 I'm looking for help with:<br>Detection Engineering, Threat Hunting, SOC Operations, and AI Security.<br><br>I'm currently learning:<br>CCNA, AI Security, Prompt Injection, Linux, Python for Security, and Detection Engineering.<br><br>💬 Ask me about:<br>Cyber Security, AI Security, Prompt Injection, Linux, Networking, Python, Malware Analysis, and Ethical Hacking.<br><br>⚡ Fun fact:<br>I love breaking down complex cybersecurity concepts into practical projects and enjoy solving security challenges.<br><br>---<br><br>## 🛠 Tech Stack<br><br>* Python<br>* Java<br>* Linux<br>* Kali Linux<br>* CCNA (Learning)<br>* Git<br>* GitHub<br>* Docker<br>* Wireshark<br>* Nmap<br>* Burp Suite<br>* Metasploit<br>* SQL<br>* HTML<br>* CSS<br><br>---<br><br>## 🚀 Featured Projects<br><br>### 🦠 Intelligent Malware Analysis Dashboard<br><br>A malware analysis platform that combines static and dynamic analysis with an interactive dashboard.<br><br>### 🎣 Phishing Detection System<br><br>A machine learning-based phishing website detection project.<br><br>research.<br><br>🛡️ Prompt Injection Learning Lab<br><br>A hands-on platform designed to help learners understand and practice Prompt Injection attacks against AI systems.<br><br>Features:<br><br>📝 100+ Prompt Injection practice questions<br>🎯 Beginner, Intermediate, and Advanced (3 learning levels)<br>🤖 AI chatbot with a speaking (voice) agent for interactive learning<br>🧪 Safe sandbox to perform prompt injection experiments<br>📊 Progress tracking and challenge-based learning<br>📚 Real-world attack scenarios and defense techniques<br><br>Tech Stack: Python, FastAPI, HTML, CSS, JavaScript, AI APIs<br><br>---<br><br>## 📊 GitHub Stats<br><br>* 📈 GitHub Stats<br>* 🔥 GitHub Streak<br>* 💻 Most Used Languages<br>* 📅 Contribution Graph<br><br>---<br><br>## 🌐 Connect With Me<br><br>📧 Email: kavishree014@gmail.com<br><br>💼 LinkedIn: https://www.linkedin.com/in/kavi-shree-9b6481297/<br><br><br>
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> Hey, I'm **Kavishree S**
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=kavishreesiva&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=kavishreesiva&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=kavishreesiva&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+```text
+> Initializing Security Profile...
+> Loading AI Security Modules...
+> Prompt Injection Lab: ACTIVE
+> Malware Research: RUNNING
+> Status: Learning • Building • Securing 🚀
+```
+
+## 👨‍💻 Who Am I?
+
+🎓 Final Year B.E. Computer Science (Cyber Security)
+
+🛡️ Passionate about securing AI systems, discovering vulnerabilities, and building practical cybersecurity tools.
+
+I believe the best way to learn security is to **build it, break it, and secure it.**
 
 ---
-[![](https://komarev.com/ghpvc/?username=kavishreesiva&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🎯 Current Mission
+
+🔭 Building AI Security & Cyber Security Projects
+
+🌱 Learning
+
+* CCNA(Learning)
+* Linux
+* Detection Engineering
+* Prompt Injection Security
+* AI Security
+
+👯 Open to collaborate on
+
+* AI Security
+* Open Source Cyber Security
+* Malware Research
+* Prompt Injection Labs
+
+🤝 Looking for guidance in
+
+* Threat Hunting
+* SOC Operations
+* Detection Engineering
+
+💬 Ask me about
+
+* Cyber Security
+* Networking
+* Linux
+* Malware Analysis
+* AI Security
+* Prompt Injection
+
+⚡ Fun Fact
+
+> I don't just use AI—I enjoy testing how secure it really is.
+
+---
+
+# 🚨 Featured Project
+
+## 🛡️ Prompt Injection Academy
+
+A gamified learning platform for AI Security.
+
+### Features
+
+🟢 Level 1 — Learn
+
+* AI Basics
+* LLM Security
+* Prompt Injection Fundamentals
+* 100+ Practice Questions
+
+🟡 Level 2 — Attack Lab
+
+* Interactive Prompt Injection Challenges
+* Jailbreak Exercises
+* Prompt Testing Sandbox
+* Voice AI Chatbot
+
+🔴 Level 3 — Defense Lab
+
+* Prompt Filtering
+* Guardrails
+* Secure Prompt Design
+* AI Red Team Exercises
+
+### Tech Stack
+
+Python • FastAPI • JavaScript • HTML • CSS • AI APIs
+
+---
+
+## 🦠 Intelligent Malware Analysis Dashboard
+
+Analyze malware using static and dynamic techniques with an interactive dashboard.
+
+---
+
+## 🎣 Phishing Detection System
+
+Machine Learning-based phishing website detection and analysis.
+
+---
+
+# ⚙️ Tech Arsenal
+
+**Languages**
+
+`Python` `Java` `SQL`
+
+**Operating Systems**
+
+`Linux` `Kali Linux`
+
+**Security**
+
+`Wireshark` `Nmap` `Burp Suite` `Metasploit`
+
+**Development**
+
+`FastAPI` `Git` `GitHub` `Docker`
+
+**Learning**
+
+`CCNA` `AI Security` `Detection Engineering`
+
+---
+
+# 📈 GitHub Activity
+
+<!-- GitHub Stats -->
+
+<!-- GitHub Streak -->
+
+<!-- Contribution Graph -->
+
+---
+
+# 🌍 Connect
+
+📧 **[kavishree014@gmail.com](mailto:kavishree014@gmail.com)**
+
+💼 LinkedIn
+**linkedin.com/in/kavi-shree-9b6481297**
+
+---
+
+> **"Security isn't about knowing every attack—it's about thinking like an attacker and building like a defender."**
