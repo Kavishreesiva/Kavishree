@@ -58,7 +58,7 @@ I believe the best way to learn security is to **build it, break it, and secure 
 
 ---
 
-# 🚨 Featured Project
+# Project
 
 ## 🛡️ Prompt Injection Academy
 
