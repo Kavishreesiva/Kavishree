@@ -1,41 +1,12 @@
-# 👋 Hi, I'm Kavi!  
+# 💫 About Me:
+# Hi there 👋, I'm Kavishree S<br><br>🚀 **Cyber Security Student | Aspiring Security Analyst | AI Security Enthusiast**<br><br>I'm a final-year B.E. Computer Science (Cyber Security) student passionate about cybersecurity, artificial intelligence, prompt injection security. I enjoy building practical security projects, exploring new technologies, and continuously improving my skills through hands-on learning.<br><br>### About Me<br><br>🔭 **I'm currently working on:**<br>Cybersecurity projects, AI-powered security applications, and malware analysis.<br><br>👯 I'm looking to collaborate on:<br>Cybersecurity, AI security, prompt injection research, and open-source security projects.<br><br>🤝 I'm looking for help with:<br>Detection Engineering, Threat Hunting, SOC Operations, and AI Security.<br><br>I'm currently learning:<br>CCNA, AI Security, Prompt Injection, Linux, Python for Security, and Detection Engineering.<br><br>💬 Ask me about:<br>Cyber Security, AI Security, Prompt Injection, Linux, Networking, Python, Malware Analysis, and Ethical Hacking.<br><br>⚡ Fun fact:<br>I love breaking down complex cybersecurity concepts into practical projects and enjoy solving security challenges.<br><br>---<br><br>## 🛠 Tech Stack<br><br>* Python<br>* Java<br>* Linux<br>* Kali Linux<br>* CCNA (Learning)<br>* Git<br>* GitHub<br>* Docker<br>* Wireshark<br>* Nmap<br>* Burp Suite<br>* Metasploit<br>* SQL<br>* HTML<br>* CSS<br><br>---<br><br>## 🚀 Featured Projects<br><br>### 🦠 Intelligent Malware Analysis Dashboard<br><br>A malware analysis platform that combines static and dynamic analysis with an interactive dashboard.<br><br>### 🎣 Phishing Detection System<br><br>A machine learning-based phishing website detection project.<br><br>research.<br><br>🛡️ Prompt Injection Learning Lab<br><br>A hands-on platform designed to help learners understand and practice Prompt Injection attacks against AI systems.<br><br>Features:<br><br>📝 100+ Prompt Injection practice questions<br>🎯 Beginner, Intermediate, and Advanced (3 learning levels)<br>🤖 AI chatbot with a speaking (voice) agent for interactive learning<br>🧪 Safe sandbox to perform prompt injection experiments<br>📊 Progress tracking and challenge-based learning<br>📚 Real-world attack scenarios and defense techniques<br><br>Tech Stack: Python, FastAPI, HTML, CSS, JavaScript, AI APIs<br><br>---<br><br>## 📊 GitHub Stats<br><br>* 📈 GitHub Stats<br>* 🔥 GitHub Streak<br>* 💻 Most Used Languages<br>* 📅 Contribution Graph<br><br>---<br><br>## 🌐 Connect With Me<br><br>📧 Email: kavishree014@gmail.com<br><br>💼 LinkedIn: https://www.linkedin.com/in/kavi-shree-9b6481297/<br><br><br>
 
-🚀 **Cybersecurity Enthusiast | Java Developer | Future Ethical Hacker**  
-
----
-
-## 🧑‍💻 About Me  
-- 🌱 Currently learning **Cybersecurity, VAPT & Java**  
-- 🛡️ Interested in **Ethical Hacking, Wireshark, Procmon**  
-- 💻 Love exploring **Security Tools & Programming**  
-- ⚡ Fun fact: *I break things to learn how they work*  
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=kavishreesiva&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=kavishreesiva&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=kavishreesiva&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=kavishreesiva&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🔧 Skills & Tools  
-- 🛡️ Cybersecurity: Kali Linux | VAPT | Wireshark  
-- 💻 Programming: Java | HTML | CSS | 
-- ⚙️ Tools: Git | GitHub | Procmon  
-
----
-
-## 🌐 Connect with Me  
-
-[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-orange?style=for-the-badge&logo=codechef)](https://www.codechef.com/users/cry_sky_17)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kavi-shree-9b6481297)
-
---- 
-
----
-
-## 🌟 Quote I Believe In  
-*"Breaking barriers, securing systems, and learning every day!"*  
-
-**These are the Coding Technology used in our Project**
-
-- Python
-- Flask 
-- HTML5
-- Vanila Javascript
-- Templating Engine
-- JSON
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
